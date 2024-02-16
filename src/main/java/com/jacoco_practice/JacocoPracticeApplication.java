@@ -9,5 +9,4 @@ public class JacocoPracticeApplication {
     public static void main(String[] args) {
         SpringApplication.run(JacocoPracticeApplication.class, args);
     }
-
 }
